@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Walmart</string>
+    <string name="name">Name</string>
+    <string name="region">region\n</string>
+    <string name="code">code</string>
+    <string name="capital">capital\n</string>
+</resources>
